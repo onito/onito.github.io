@@ -1,0 +1,22 @@
+# only Localhost:4000 jekyll serve & temporary
+_tempo_draft.txt
+_posts_draft/
+_site/
+.sass-cache/
+
+
+# If you have DNS, put the address in CNAME --
+CNAME
+
+
+# And the directories ------------------------
+#  Gemfile
+Gemfile.lock
+node_modules
+package.json
+
+
+# And the files -----------------------------
+*.bundle
+*.jekyll
+*.jekyll-metadata

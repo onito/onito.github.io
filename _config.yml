@@ -1,0 +1,114 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+# title of your site (displayed in the header)
+# name --> title: Hello, I'm Onito™ 👋
+# changes 4 site.name to site.title
+title: Hello, I'm Onito™ 👋
+
+# Short bio or description (displayed in the header)
+description: This is a New Project Jekyll, Where is ONITO on Earth!?
+
+# author information refering to: https://goo.gl/iQCi4q
+author:
+  name: What is onito on Earth!
+  twitter: onito
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://onito.github.io/images/system/sparx-helmet.jpg
+
+# favicon at {{ site.baseurl }}/images/system/{{ site.favicon1 }}
+favicon1: imoji_duck.png
+favicon2: jekyll-logo.png
+favicon3: angry_tig.png
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: nitt0@hanmail.net
+  facebook: onito
+  flickr: onito
+  github: onito/onito.github.io.git
+  instagram: onito
+  linkedin: onito
+  pinterest: onito
+  twitter: onito
+  rss: # just type anything here for a working RSS icon
+
+  # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/7771281/onito
+
+  # channel/<your_long_string> or user/<user-name>
+  youtube: channel/onito
+
+  # anything in your profile username that comes after plus.google.com/
+  googleplus: u/0/s/onito
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: kay
+
+# Enter your Google Analytics web tracking code to activate tracking
+google_analytics: UA-101274778-1
+
+# Your website URL (e.g. http://barryclark.github.io
+# or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: https://onito.github.io
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+# unicode permalink problem on title url /:title/ below 😫
+# permalink: /:categories/:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/
+
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+# if utf-8 permalink doesn't work correctly. unify all utf-8
+encoding: "UTF-8"
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+# Add Gemfile, and make description for {% seo %} tag
+# refer: https://goo.gl/xkfn5H
+
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-seo-tag
+
+# Exclude these files from your production _site
+#  - README.md
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CNAME
