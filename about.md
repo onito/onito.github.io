@@ -31,5 +31,5 @@ permalink: /about/
 
 
 # 👑 Visit My Blog (test)
-> [![__octocat__]({{ site.baseurl }}/images/post_img/2018-05-28_0_github.png "https://onito.github.io")](https://onito.github.io)   
+> [![__octocat__]({{ site.baseurl }}/images/system/ruby_on_rails.jpg)](https://onito.github.io)   
 > [[**onito.github.io**]](https://onito.github.io)

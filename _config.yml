@@ -8,7 +8,7 @@
 title: Hello, I'm Onito™ 👋
 
 # Short bio or description (displayed in the header)
-description: This is a New Project Jekyll, Where is ONITO on Earth!?
+description: This is a Sample Project for Jekyll, have fun!?
 
 # author information refering to: https://goo.gl/iQCi4q
 author:
@@ -16,11 +16,12 @@ author:
   twitter: onito
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://onito.github.io/images/system/sparx-helmet.jpg
+# avatar: /images/system/sparx-helmet.jpg
+avatar: /images/system/avatar.png
 
 # favicon at {{ site.baseurl }}/images/system/{{ site.favicon1 }}
-favicon1: imoji_duck.png
-favicon2: jekyll-logo.png
+favicon1: jekyll-logo.png
+favicon2: Felix.png
 favicon3: angry_tig.png
 
 #
@@ -29,7 +30,7 @@ favicon3: angry_tig.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  dribbble: onito
   email: nitt0@hanmail.net
   facebook: onito
   flickr: onito
@@ -73,7 +74,7 @@ baseurl: ""
 
 # unicode permalink problem on title url /:title/ below 😫
 # permalink: /:categories/:year/:month/:day/:title/
-permalink: /:categories/:year/:month/:day/
+permalink: /:categories/:year/:month/:day/:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
