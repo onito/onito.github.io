@@ -16,14 +16,12 @@ author: Onito-onitonitonito-in-wonderland
 
 navbar-links:
   Resources:
-    - Angry TIG: "https://onito.github.io/"
-    - NATABY Home: "https://onitonitonito.github.io/"
-    - Raspberry Hill: "https://bit.ly/ONITO"
+    - GDGKr_Slack: "https://gdgkr.slack.com/"
+    - DisQus_Admin: "https://disqus.com/admin"
+    - Google_Colab : "https://colab.research.google.com"
 
   Web-sites:
-    - Angry TIG: "https://onito.github.io/"
-    - NATABY Home: "https://onitonitonito.github.io/"
-    - Raspberry Hill: "https://bit.ly/ONITO"
+    - Angry_TIG: "https://onito.github.io/"
 
   About Me: aboutme
 
