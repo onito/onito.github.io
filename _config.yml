@@ -1,5 +1,5 @@
 # ------------------------------------------------------------------------
-#  Basic options
+#  BASIC OPTIONS
 # ------------------------------------------------------------------------
 
 # title to show on the left-top on header
@@ -12,7 +12,7 @@ author: Kay in the Park
 
 
 # ------------------------------------------------------------------------
-#  List of links in the navigation bar
+#  LIST IN THE NAVIGATION BAR
 # ------------------------------------------------------------------------
 
 navbar-links:
@@ -21,21 +21,22 @@ navbar-links:
     - Slack GDG Kr: "https://gdgkr.slack.com/"
     - Discord @ME : "https://discord.com/channels/@me"
     - DisQus Kay  : "https://disqus.com/admin"
-    - Kaggle : "https://www.kaggle.com/"
+    - Kaggle.com : "https://www.kaggle.com/"
     - Dacon KR Competition : "https://dacon.io/"
-    - Google Analytics : "https://analytics.google.com/"
 
   Web-sites:
+    - Google Analytics : "https://analytics.google.com/"
     - PythonAnywhere : "https://www.pythonanywhere.com/"
     - Github GDGSongDo : "https://github.com/GDGSongDo"
-    - Angry_TIG: "https://onito.github.io/"
+    - BEAUTIFULJEKYLL : "/readme/"
+    - change log of BJ : "/changelog/"
 
   About Me: aboutme
 
 
 
 # ------------------------------------------------------------------------
-#  Logo
+#  LOGO
 # ------------------------------------------------------------------------
 
 # Image to show in the navigation bar - works best with a square image
@@ -58,7 +59,7 @@ collections:
 
 
 # ------------------------------------------------------------------------
-#  Footer options
+#  FOOTER OPTIONS
 # ------------------------------------------------------------------------
 
 # Select the social network links that you want to show in the footer.
@@ -79,7 +80,7 @@ social-network-links:
 
 
 # ------------------------------------------------------------------------
-#  General options
+#  GENERAL OPTIONS
 # ------------------------------------------------------------------------
 
 # Select which social network share links to show in posts
@@ -101,7 +102,7 @@ excerpt_length: 50
 
 
 # ------------------------------------------------------------------------
-#  Colours / background image
+#  COLOURS / BACKGROUND IMAGES
 # ------------------------------------------------------------------------
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
@@ -126,7 +127,7 @@ footer-img: "/assets/img/bgimage.png"
 
 
 # ------------------------------------------------------------------------
-#  Web Statistics Section
+#  WEB STASTICS SECTION
 # ------------------------------------------------------------------------
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
@@ -147,7 +148,7 @@ footer-img: "/assets/img/bgimage.png"
 
 
 # ------------------------------------------------------------------------
-#  Comments
+#  COMMENTS
 # ------------------------------------------------------------------------
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -189,7 +190,7 @@ google_analytics: UA-101274778-1
 
 
 # ------------------------------------------------------------------------
-#  Misc
+#  MISCELENIOUS
 # ------------------------------------------------------------------------
 
 # Character used to separate site title and description in HTML document title
@@ -205,7 +206,8 @@ date_format: "%B %-d, %Y"
 
 
 # ------------------------------------------------------------------------
-#  You don't need to touch anything below here (but you can if you want)
+#  YOU DON'T NEED TO TOUCH ANYTHING BELLOW HERE
+#  (but you can, if you want to)
 # ------------------------------------------------------------------------
 
 # Output options (more information on Jekyll's site)

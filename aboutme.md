@@ -9,9 +9,9 @@ subtitle: You don't know me
 
 # 😎 HELLO, I'm Kay!
 
-{: .box-note}
-**A.K.A:** __Where is The Carmen in San Diego!__
 
+{: .box-note}
+**A.K.A :** ```Where is The Carmen in San Diego!```
 
 
 > - Just common 'Dirty Bomb' player who plays in 30 fps
@@ -25,7 +25,8 @@ subtitle: You don't know me
 
 
 {: .box-error}
-**warn:** __This is just For TEST, not real!__
+**warn :** __This is just For TEST, not real!__
+
 
 <img src="{{ site.baseurl}}/images/system/spark_rabbit_03.png" width="300" />
 
@@ -36,4 +37,4 @@ subtitle: You don't know me
 
 
 {: .box-warning}
-**Email:** [*onito.github.io*](https://onito.github.io) ... 📧 [[nitt0@hanmail.net]](nitt0@hanmail.net)
+**Email :** [*onito.github.io*](https://onito.github.io) ... 📧 [[nitt0@hanmail.net]](nitt0@hanmail.net)
